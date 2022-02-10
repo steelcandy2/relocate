@@ -1,0 +1,9 @@
+#+title: relocate
+#+date: <2022-01-27 Thu 12:31>
+#+description: README file for the 'relocation' commands.
+
+This is a collection of shell functions that work with the built-in 'cd'
+command to allow you to move around the filesystem more quickly and easily.
+
+There is currently no formal documentation for these commands, but there's
+a [[https://blog0.steelcandy.org/2022-02-10-relocation-basics.html][blog post]] explaining the basics of using them.
